@@ -1,5 +1,5 @@
 # GeoTEDx
-![Logo2](https://github.com/TurnTheBait/GeoTEDx/assets/105780762/1bdb4889-c75c-499d-819e-a938f2d647d5)
+![Logo2](https://github.com/TurnTheBait/GeoTEDx/assets/105780762/c7651f13-b646-43d3-b3b0-31326df183a1)
 
 Progetto di Tecnologie Cloud e Mobile
 
